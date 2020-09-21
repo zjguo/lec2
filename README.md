@@ -1,3 +1,3 @@
 # DG8002
  
-https://zjguo.github.io
+https://zjguo.github.io/lec2
